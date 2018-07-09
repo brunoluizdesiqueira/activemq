@@ -1,0 +1,10 @@
+/Users/bruno/Projetos/net-core/Sender/Receiver/obj/Debug/netcoreapp2.0/Receiver.csproj.CoreCompileInputs.cache
+/Users/bruno/Projetos/net-core/Sender/Receiver/obj/Debug/netcoreapp2.0/Receiver.AssemblyInfoInputs.cache
+/Users/bruno/Projetos/net-core/Sender/Receiver/obj/Debug/netcoreapp2.0/Receiver.AssemblyInfo.cs
+/Users/bruno/Projetos/net-core/Sender/Receiver/bin/Debug/netcoreapp2.0/Receiver.deps.json
+/Users/bruno/Projetos/net-core/Sender/Receiver/bin/Debug/netcoreapp2.0/Receiver.runtimeconfig.json
+/Users/bruno/Projetos/net-core/Sender/Receiver/bin/Debug/netcoreapp2.0/Receiver.runtimeconfig.dev.json
+/Users/bruno/Projetos/net-core/Sender/Receiver/bin/Debug/netcoreapp2.0/Receiver.dll
+/Users/bruno/Projetos/net-core/Sender/Receiver/bin/Debug/netcoreapp2.0/Receiver.pdb
+/Users/bruno/Projetos/net-core/Sender/Receiver/obj/Debug/netcoreapp2.0/Receiver.dll
+/Users/bruno/Projetos/net-core/Sender/Receiver/obj/Debug/netcoreapp2.0/Receiver.pdb
