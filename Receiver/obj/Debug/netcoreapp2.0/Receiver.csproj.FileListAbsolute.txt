@@ -8,3 +8,14 @@
 /Users/bruno/Projetos/net-core/Sender/Receiver/bin/Debug/netcoreapp2.0/Receiver.pdb
 /Users/bruno/Projetos/net-core/Sender/Receiver/obj/Debug/netcoreapp2.0/Receiver.dll
 /Users/bruno/Projetos/net-core/Sender/Receiver/obj/Debug/netcoreapp2.0/Receiver.pdb
+C:\Users\bruno.dsn.erp\Projetos\net-core\activemq\activemq\Receiver\bin\Debug\netcoreapp2.0\Receiver.deps.json
+C:\Users\bruno.dsn.erp\Projetos\net-core\activemq\activemq\Receiver\bin\Debug\netcoreapp2.0\Receiver.runtimeconfig.json
+C:\Users\bruno.dsn.erp\Projetos\net-core\activemq\activemq\Receiver\bin\Debug\netcoreapp2.0\Receiver.runtimeconfig.dev.json
+C:\Users\bruno.dsn.erp\Projetos\net-core\activemq\activemq\Receiver\bin\Debug\netcoreapp2.0\Receiver.dll
+C:\Users\bruno.dsn.erp\Projetos\net-core\activemq\activemq\Receiver\bin\Debug\netcoreapp2.0\Receiver.pdb
+C:\Users\bruno.dsn.erp\Projetos\net-core\activemq\activemq\Receiver\obj\Debug\netcoreapp2.0\Receiver.csprojResolveAssemblyReference.cache
+C:\Users\bruno.dsn.erp\Projetos\net-core\activemq\activemq\Receiver\obj\Debug\netcoreapp2.0\Receiver.csproj.CoreCompileInputs.cache
+C:\Users\bruno.dsn.erp\Projetos\net-core\activemq\activemq\Receiver\obj\Debug\netcoreapp2.0\Receiver.AssemblyInfoInputs.cache
+C:\Users\bruno.dsn.erp\Projetos\net-core\activemq\activemq\Receiver\obj\Debug\netcoreapp2.0\Receiver.AssemblyInfo.cs
+C:\Users\bruno.dsn.erp\Projetos\net-core\activemq\activemq\Receiver\obj\Debug\netcoreapp2.0\Receiver.dll
+C:\Users\bruno.dsn.erp\Projetos\net-core\activemq\activemq\Receiver\obj\Debug\netcoreapp2.0\Receiver.pdb

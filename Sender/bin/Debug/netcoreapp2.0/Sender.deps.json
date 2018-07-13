@@ -1,14 +1,16 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "4575e158cb35c3cc13538b9b5ae50e8c7ac075d6"
+    "signature": "ffec6726db0669843c54bdce09a3254c602c0c8d"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
       "Sender/1.0.0": {
         "dependencies": {
-          "AMQPNetLite": "2.1.3"
+          "AMQPNetLite": "2.1.3",
+          "AMQPNetLite.Core": "2.1.3",
+          "AMQPNetLite.Serialization": "2.1.3"
         },
         "runtime": {
           "Sender.dll": {}
@@ -42,6 +44,20 @@
         },
         "runtime": {
           "lib/netstandard1.3/Amqp.Net.dll": {}
+        }
+      },
+      "AMQPNetLite.Serialization/2.1.3": {
+        "dependencies": {
+          "AMQPNetLite.Core": "2.1.3",
+          "System.Collections": "4.0.11",
+          "System.Collections.Concurrent": "4.0.12",
+          "System.Reflection": "4.1.0",
+          "System.Reflection.Emit.Lightweight": "4.0.1",
+          "System.Reflection.Extensions": "4.0.1",
+          "System.Reflection.TypeExtensions": "4.1.0"
+        },
+        "runtime": {
+          "lib/netstandard1.3/Amqp.Serialization.dll": {}
         }
       },
       "Microsoft.NETCore.Targets/1.0.1": {},
@@ -266,9 +282,37 @@
           "System.Runtime": "4.1.0"
         }
       },
+      "System.Reflection.Emit.ILGeneration/4.0.1": {
+        "dependencies": {
+          "System.Reflection": "4.1.0",
+          "System.Reflection.Primitives": "4.0.1",
+          "System.Runtime": "4.1.0"
+        }
+      },
+      "System.Reflection.Emit.Lightweight/4.0.1": {
+        "dependencies": {
+          "System.Reflection": "4.1.0",
+          "System.Reflection.Emit.ILGeneration": "4.0.1",
+          "System.Reflection.Primitives": "4.0.1",
+          "System.Runtime": "4.1.0"
+        }
+      },
+      "System.Reflection.Extensions/4.0.1": {
+        "dependencies": {
+          "Microsoft.NETCore.Targets": "1.0.1",
+          "System.Reflection": "4.1.0",
+          "System.Runtime": "4.1.0"
+        }
+      },
       "System.Reflection.Primitives/4.0.1": {
         "dependencies": {
           "Microsoft.NETCore.Targets": "1.0.1",
+          "System.Runtime": "4.1.0"
+        }
+      },
+      "System.Reflection.TypeExtensions/4.1.0": {
+        "dependencies": {
+          "System.Reflection": "4.1.0",
           "System.Runtime": "4.1.0"
         }
       },
@@ -587,6 +631,13 @@
       "path": "amqpnetlite.core/2.1.3",
       "hashPath": "amqpnetlite.core.2.1.3.nupkg.sha512"
     },
+    "AMQPNetLite.Serialization/2.1.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UqiXuFRK4/b/PYRswo7DWT0Zlk2pMMh/V5aWgx4tUHn1VtJ66OibdWeFmxUhyj87o1InGgazzEeDH7X5HgFOoQ==",
+      "path": "amqpnetlite.serialization/2.1.3",
+      "hashPath": "amqpnetlite.serialization.2.1.3.nupkg.sha512"
+    },
     "Microsoft.NETCore.Targets/1.0.1": {
       "type": "package",
       "serviceable": true,
@@ -748,12 +799,40 @@
       "path": "system.reflection/4.1.0",
       "hashPath": "system.reflection.4.1.0.nupkg.sha512"
     },
+    "System.Reflection.Emit.ILGeneration/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ov6dU8Bu15Bc7zuqttgHF12J5lwSWyTf1S+FJouUXVMSqImLZzYaQ+vRr1rQ0OZ0HqsrwWl4dsKHELckQkVpgA==",
+      "path": "system.reflection.emit.ilgeneration/4.0.1",
+      "hashPath": "system.reflection.emit.ilgeneration.4.0.1.nupkg.sha512"
+    },
+    "System.Reflection.Emit.Lightweight/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sSzHHXueZ5Uh0OLpUQprhr+ZYJrLPA2Cmr4gn0wj9+FftNKXx8RIMKvO9qnjk2ebPYUjZ+F2ulGdPOsvj+MEjA==",
+      "path": "system.reflection.emit.lightweight/4.0.1",
+      "hashPath": "system.reflection.emit.lightweight.4.0.1.nupkg.sha512"
+    },
+    "System.Reflection.Extensions/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GYrtRsZcMuHF3sbmRHfMYpvxZoIN2bQGrYGerUiWLEkqdEUQZhH3TRSaC/oI4wO0II1RKBPlpIa1TOMxIcOOzQ==",
+      "path": "system.reflection.extensions/4.0.1",
+      "hashPath": "system.reflection.extensions.4.0.1.nupkg.sha512"
+    },
     "System.Reflection.Primitives/4.0.1": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-4inTox4wTBaDhB7V3mPvp9XlCbeGYWVEM9/fXALd52vNEAVisc1BoVWQPuUuD0Ga//dNbA/WeMy9u9mzLxGTHQ==",
       "path": "system.reflection.primitives/4.0.1",
       "hashPath": "system.reflection.primitives.4.0.1.nupkg.sha512"
+    },
+    "System.Reflection.TypeExtensions/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tsQ/ptQ3H5FYfON8lL4MxRk/8kFyE0A+tGPXmVP967cT/gzLHYxIejIYSxp4JmIeFHVP78g/F2FE1mUUTbDtrg==",
+      "path": "system.reflection.typeextensions/4.1.0",
+      "hashPath": "system.reflection.typeextensions.4.1.0.nupkg.sha512"
     },
     "System.Resources.ResourceManager/4.0.1": {
       "type": "package",

@@ -8,3 +8,14 @@
 /Users/bruno/Projetos/net-core/Sender/Sender/obj/Debug/netcoreapp2.0/Sender.AssemblyInfo.cs
 /Users/bruno/Projetos/net-core/Sender/Sender/obj/Debug/netcoreapp2.0/Sender.dll
 /Users/bruno/Projetos/net-core/Sender/Sender/obj/Debug/netcoreapp2.0/Sender.pdb
+C:\Users\bruno.dsn.erp\Projetos\net-core\activemq\activemq\Sender\bin\Debug\netcoreapp2.0\Sender.deps.json
+C:\Users\bruno.dsn.erp\Projetos\net-core\activemq\activemq\Sender\bin\Debug\netcoreapp2.0\Sender.runtimeconfig.json
+C:\Users\bruno.dsn.erp\Projetos\net-core\activemq\activemq\Sender\bin\Debug\netcoreapp2.0\Sender.runtimeconfig.dev.json
+C:\Users\bruno.dsn.erp\Projetos\net-core\activemq\activemq\Sender\bin\Debug\netcoreapp2.0\Sender.dll
+C:\Users\bruno.dsn.erp\Projetos\net-core\activemq\activemq\Sender\bin\Debug\netcoreapp2.0\Sender.pdb
+C:\Users\bruno.dsn.erp\Projetos\net-core\activemq\activemq\Sender\obj\Debug\netcoreapp2.0\Sender.csproj.CoreCompileInputs.cache
+C:\Users\bruno.dsn.erp\Projetos\net-core\activemq\activemq\Sender\obj\Debug\netcoreapp2.0\Sender.AssemblyInfoInputs.cache
+C:\Users\bruno.dsn.erp\Projetos\net-core\activemq\activemq\Sender\obj\Debug\netcoreapp2.0\Sender.AssemblyInfo.cs
+C:\Users\bruno.dsn.erp\Projetos\net-core\activemq\activemq\Sender\obj\Debug\netcoreapp2.0\Sender.dll
+C:\Users\bruno.dsn.erp\Projetos\net-core\activemq\activemq\Sender\obj\Debug\netcoreapp2.0\Sender.pdb
+C:\Users\bruno.dsn.erp\Projetos\net-core\activemq\activemq\Sender\obj\Debug\netcoreapp2.0\Sender.csprojResolveAssemblyReference.cache
